@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by (Accrue http://www.accruemarketing.com/) -->
+<!-- Generated-on="May 11, 2021, 2:53 pm" -->
+<?xml-stylesheet type="text/xsl" href="https://cateringsidoarjo.netlify.app/video-sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+ <url>
+ <loc>https://cateringsidoarjo.netlify.app/</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/onPcYMRSaa0</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/onPcYMRSaa0/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Jasa Boga #1 Sidoarjo</video:title>
+  <video:description>Jasa Boga #1 Sidoarjo</video:description>
+  <video:publication_date>2020-04-16T07:53:40+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://cateringsidoarjo.netlify.app/</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/onPcYMRSaa0</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/onPcYMRSaa0/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Jasa Boga #1 Sidoarjo</video:title>
+  <video:description>Jasa Boga #1 Sidoarjo</video:description>
+  <video:publication_date>2020-04-16T07:53:40+00:00</video:publication_date>
+ </video:video>
+ </url>
+</urlset>
